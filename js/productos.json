@@ -1,0 +1,143 @@
+[
+    {
+        "id":"campera-grecia",
+        "titulo":"Campera Grecia",
+        "imagen": "./imagenes/campera-grecia.jpg",
+        "categoria": {
+            "nombre":"Niñas",
+            "id":"ninias"
+        },
+        "precio": 1200
+    },
+    {
+        "id":"deportivo-indiana",
+        "titulo":"Deportivo Indiana",
+        "imagen": "./imagenes/deportivo-indiana.jpg",
+        "categoria": {
+            "nombre":"Niñas",
+            "id":"ninias"
+        },
+        "precio": 1300
+    },
+    {
+        "id":"jean-tiziana",
+        "titulo":"Jean Tiziana",
+        "imagen": "./imagenes/jean-tiziana.jpg",
+        "categoria": {
+            "nombre":"Niñas",
+            "id":"ninias"
+        },
+        "precio": 700
+    },
+    {
+        "id":"conjunto-roma",
+        "titulo":"Conjunto Roma",
+        "imagen": "./imagenes/conjunto-roma.jpg",
+        "categoria": {
+            "nombre":"Niñas",
+            "id":"ninias"
+        },
+        "precio": 900
+    },
+    {
+        "id":"conjunto-beltran",
+        "titulo":"Conjunto Beltran",
+        "imagen": "./imagenes/conjunto-beltran.JPG",
+        "categoria": {
+            "nombre":"Niños",
+            "id":"ninios"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"conjunto-genaro",
+        "titulo":"Conjunto Genaro",
+        "imagen": "./imagenes/conjunto-genaro.jpg",
+        "categoria": {
+            "nombre":"Bebe",
+            "id":"bebe"
+        },
+        "precio": 900
+    },
+    {
+        "id":"conjunto-lorenzo",
+        "titulo":"Conjunto Lorenzo",
+        "imagen": "./imagenes/conjunto-lorenzo.jpg",
+        "categoria": {
+            "nombre":"Bebe",
+            "id":"bebe"
+        },
+        "precio": 900
+    },
+    {
+        "id":"conjunto-vicente",
+        "titulo":"Conjunto Vicente",
+        "imagen": "./imagenes/conjunto-vicente.jpg",
+        "categoria": {
+            "nombre":"Niños",
+            "id":"ninios"
+        },
+        "precio": 900
+    },
+    {
+        "id":"maya-tiburon",
+        "titulo":"Maya Tiburon",
+        "imagen": "./imagenes/maya-tiburon.JPG",
+        "categoria": {
+            "nombre":"Niños",
+            "id":"ninios"
+        },
+        "precio": 600
+    },
+    {
+        "id":"enterito-nieve",
+        "titulo":"Enterito Nieve",
+        "imagen": "./imagenes/enterito-nieve.jpg",
+        "categoria": {
+            "nombre":"Bebe",
+            "id":"bebe"
+        },
+        "precio": 1100
+    },
+    {
+        "id":"enterito-osito",
+        "titulo":"Enterito Osito",
+        "imagen": "./imagenes/enterito-osito.jpg",
+        "categoria": {
+            "nombre":"Bebe",
+            "id":"bebe"
+        },
+        "precio": 1100
+    },
+    {
+        "id":"maya-arcoiris",
+        "titulo":"Maya Arcoiris",
+        "imagen": "./imagenes/maya-arcoiris.jpg",
+        "categoria": {
+            "nombre":"Niñas",
+            "id":"ninias"
+        },
+        "precio": 600
+    },
+    {
+        "id":"tapado-oriana",
+        "titulo":"Tapado Oriana",
+        "imagen": "./imagenes/tapado-oriana.jpg",
+        "categoria": {
+            "nombre":"Niñas",
+            "id":"ninias"
+        },
+        "precio": 1500
+    },
+    {
+        "id":"vestido-juana",
+        "titulo":"Vestido Juana",
+        "imagen": "./imagenes/vestido-juana (1).jpg",
+        "categoria": {
+            "nombre":"Niñas",
+            "id":"ninias"
+        },
+        "precio": 800
+    }
+
+]
